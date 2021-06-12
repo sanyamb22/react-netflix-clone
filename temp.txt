@@ -1,0 +1,13 @@
+API KEY
+7f6075cc622f7b7a05f127c0bfc6a02b
+
+
+API Request
+https://api.themoviedb.org/3/movie/550?api_key=7f6075cc622f7b7a05f127c0bfc6a02b
+
+
+API Read Access Token (v4 auth)
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3ZjYwNzVjYzYyMmY3YjdhMDVmMTI3YzBiZmM2YTAyYiIsInN1YiI6IjYwOWJmOGUyN2VjZDI4MDA3OTA3MDM1MCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.jls8sfqOFLFwQkZKI2Oe3tiK3kdv4ACERnUI5rYbEvk
+
+Hosting url
+https://netflix-clone-4da63.web.app/
